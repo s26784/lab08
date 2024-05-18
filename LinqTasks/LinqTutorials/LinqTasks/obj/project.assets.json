@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s26784\\.nuget\\packages\\": {}
+    "C:\\Users\\Majkelo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s26784\\Desktop\\lab08\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Majkelo\\Desktop\\lab08\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
       "projectName": "LinqTasks",
-      "projectPath": "C:\\Users\\s26784\\Desktop\\lab08\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
-      "packagesPath": "C:\\Users\\s26784\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s26784\\Desktop\\lab08\\LinqTasks\\LinqTutorials\\LinqTasks\\obj\\",
+      "projectPath": "C:\\Users\\Majkelo\\Desktop\\lab08\\LinqTasks\\LinqTutorials\\LinqTasks\\LinqTasks.csproj",
+      "packagesPath": "C:\\Users\\Majkelo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Majkelo\\Desktop\\lab08\\LinqTasks\\LinqTutorials\\LinqTasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s26784\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Majkelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
