@@ -9,7 +9,7 @@ public static class CustomExtensionMethods
     {
         return emps
             .Where(e => emps.Any(sub => sub.Mgr?.Empno == e.Empno))
-            .OrderBy(e => e.Empno)
+            .OrderBy(e => e.Ename)
             .ThenByDescending(e => e.Salary);
     }
 }
